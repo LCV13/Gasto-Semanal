@@ -1,5 +1,8 @@
 # Gasto-Semanal
 calculadora para controlar el gasto semanal
+
+![gasto semanal](https://user-images.githubusercontent.com/58574759/89102432-760db900-d3df-11ea-9999-4b0b178f1796.png)
+
 ---
 ## Lenguajes utilizados:
 * HTML
